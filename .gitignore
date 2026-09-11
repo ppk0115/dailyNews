@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# 本地测试产物（非仓库所需）
+preview.html
+news_qrcode.png
+wxpusher_spt_qrcode.jpg
+secrets.json
+
+# OS
+.DS_Store
